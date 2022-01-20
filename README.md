@@ -1,4 +1,6 @@
 # MIS LBU Nuxt Proto
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Flucivskvn%2Fnuxt-proto-tailwind.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Flucivskvn%2Fnuxt-proto-tailwind?ref=badge_shield)
+
 
 ## Build Setup
 
@@ -66,3 +68,7 @@ More information about the usage of this directory in [the documentation](https:
 This directory contains your Vuex store files. Creating a file in this directory automatically activates Vuex.
 
 More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/store).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Flucivskvn%2Fnuxt-proto-tailwind.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Flucivskvn%2Fnuxt-proto-tailwind?ref=badge_large)
