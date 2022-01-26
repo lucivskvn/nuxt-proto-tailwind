@@ -51,6 +51,9 @@ export default {
     manifest: {
       lang: 'en',
     },
+    meta: {
+      viewport: 'width=device-width; initial-scale=1; viewport-fit=cover',
+    },
   },
 
   // Auth module configuration: https://auth.nuxtjs.org/providers/auth0

@@ -12,6 +12,7 @@
         class="flex justify-center pt-8 sm:pt-0"
         href="https://nuxtjs.org"
         target="_blank"
+        rel="noopener"
       >
         <svg
           width="218"
@@ -59,6 +60,7 @@
           <a
             href="https://nuxtjs.org"
             target="_blank"
+            rel="noopener"
             class="button--doc text-green-500 hover:underline"
             >Nuxt documentation</a
           >, whether you are new or have previous experience with the
@@ -76,7 +78,7 @@
         </p>
       </div>
       <div class="flex justify-center pt-4 space-x-2">
-        <a href="https://github.com/nuxt/nuxt.js" target="_blank"
+        <a href="https://github.com/nuxt/nuxt.js" target="_blank" rel="noopener"
           ><svg
             class="w-6 h-6 text-gray-600 hover:text-gray-800 button--github"
             xmlns="http://www.w3.org/2000/svg"
@@ -93,7 +95,7 @@
               fill="currentColor"
             /></svg
         ></a>
-        <a href="https://twitter.com/nuxt_js" target="_blank"
+        <a href="https://twitter.com/nuxt_js" target="_blank" rel="noopener"
           ><svg
             class="w-6 h-6 text-gray-600 hover:text-gray-800"
             xmlns="http://www.w3.org/2000/svg"
