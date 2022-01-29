@@ -1,7 +1,7 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'MIS-LBU Proto',
+    title: 'MIS-LBU',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
@@ -51,7 +51,11 @@ export default {
     manifest: {
       name: 'Management Information System',
       short_name: 'MIS-LBU',
+      background_color: 'none',
+      description: 'PWA Client for the MIS-LBU Website',
+      display: 'fullscreen',
       lang: 'en',
+      crossorigin: 'use-credentials',
     },
   },
 
