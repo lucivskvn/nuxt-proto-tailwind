@@ -49,10 +49,9 @@ export default {
   // PWA module configuration: https://go.nuxtjs.dev/pwa
   pwa: {
     manifest: {
+      name: 'Management Information System',
+      short_name: 'MIS-LBU',
       lang: 'en',
-    },
-    meta: {
-      viewport: 'width=device-width; initial-scale=1; viewport-fit=cover',
     },
   },
 
@@ -60,8 +59,8 @@ export default {
   auth: {
     strategies: {
       auth0: {
-        domain: 'esbpcs.au.auth0.com',
-        clientId: 'IYDle5tjv3nWNHnxK4IPubrLKQZqk06w',
+        domain: 'process.env.AUTH0_DOMAIN',
+        clientId: 'process.env.AUTH0_CLIENT_ID',
         logoutRedirectUri: 'http://localhost:3000',
       },
     },
