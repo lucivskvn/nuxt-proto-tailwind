@@ -1,5 +1,12 @@
 # MIS LBU Nuxt Proto
 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=lucivskvn_nuxt-proto-tailwind&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=lucivskvn_nuxt-proto-tailwind)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=lucivskvn_nuxt-proto-tailwind&metric=bugs)](https://sonarcloud.io/summary/new_code?id=lucivskvn_nuxt-proto-tailwind)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=lucivskvn_nuxt-proto-tailwind&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=lucivskvn_nuxt-proto-tailwind)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=lucivskvn_nuxt-proto-tailwind&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=lucivskvn_nuxt-proto-tailwind)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=lucivskvn_nuxt-proto-tailwind&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=lucivskvn_nuxt-proto-tailwind)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Flucivskvn%2Fnuxt-proto-tailwind.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Flucivskvn%2Fnuxt-proto-tailwind?ref=badge_shield)
+
 ## Build Setup
 
 ```bash
