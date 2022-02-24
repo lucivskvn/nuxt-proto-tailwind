@@ -1,7 +1,6 @@
 import 'dotenv/config'
 
 export default {
-<<<<<<< HEAD
  // Global page headers: https://go.nuxtjs.dev/config-head
  head: {
   title: 'MIS-LBU',
@@ -13,19 +12,6 @@ export default {
   ],
   link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
  },
-=======
-  // Global page headers: https://go.nuxtjs.dev/config-head
-  head: {
-    title: 'MIS-LBU',
-    meta: [
-      { charset: 'utf-8' },
-      { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '' },
-      { name: 'format-detection', content: 'telephone=no' },
-    ],
-    link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
-  },
->>>>>>> next
 
  // Global CSS: https://go.nuxtjs.dev/config-css
  css: [],
@@ -62,7 +48,6 @@ export default {
   baseURL: '/',
  },
 
-<<<<<<< HEAD
  // PWA module configuration: https://go.nuxtjs.dev/pwa
  pwa: {
   manifest: {
@@ -73,23 +58,9 @@ export default {
    display: 'fullscreen',
    lang: 'en',
    crossorigin: 'use-credentials',
-=======
-  // PWA module configuration: https://go.nuxtjs.dev/pwa
-  pwa: {
-    manifest: {
-      name: 'Management Information System',
-      short_name: 'MIS-LBU',
-      background_color: 'none',
-      description: 'PWA Client for the MIS-LBU Website',
-      display: 'fullscreen',
-      lang: 'en',
-      crossorigin: 'use-credentials',
-    },
->>>>>>> next
   },
  },
 
-<<<<<<< HEAD
  // Auth module configuration: https://auth.nuxtjs.org/providers/auth0
  auth: {
   redirect: {
@@ -101,17 +72,6 @@ export default {
     clientId: 'process.env.AUTH0_CLIENT_ID',
     logoutRedirectUri: 'http://localhost:3000',
    },
-=======
-  // Auth module configuration: https://auth.nuxtjs.org/providers/auth0
-  auth: {
-    strategies: {
-      auth0: {
-        domain: 'process.env.AUTH0_DOMAIN',
-        clientId: 'process.env.AUTH0_CLIENT_ID',
-        logoutRedirectUri: 'http://localhost:3000',
-      },
-    },
->>>>>>> next
   },
  },
 
